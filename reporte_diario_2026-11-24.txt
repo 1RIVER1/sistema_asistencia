@@ -1,0 +1,16 @@
+KRONVIA | GESTIÓN DE ASISTENCIA
+REPORTE Diario | 2026-11-24 a 2026-11-24
+Generado por: prueba
+============================================================================================
+ID | FECHA | ENTRADA | SALIDA | ESTADO ENTRADA | ESTADO SALIDA | TRABAJO | EXTRA
+E001 | 2026-11-24 | 11:36 | 20:00 | Retardo | Con extra | 8h 24min | 2h 0min
+E002 | 2026-11-24 | 11:58 |  | Retardo | Pendiente | 0h 0min | 0h 0min
+============================================================================================
+Registros: 2
+Puntuales: 0 | Retardos: 2 | Ausencias: 0
+Justificadas: 0 | Sin salida: 0
+Tiempo trabajado: 8h 24min | Extra: 2h 0min
+Puntualidad: 0%
+Más puntual: Ana Rojas
+Más horas: Ana Rojas
+Más retardos: Ana Rojas

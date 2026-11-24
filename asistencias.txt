@@ -1,0 +1,14 @@
+E001;2026-11-16;;;Injustificada;No aplica;0;0;;;;
+E001;2026-11-17;;;Injustificada;No aplica;0;0;;;;
+E001;2026-11-18;;;Injustificada;No aplica;0;0;;;;
+E001;2026-11-19;;;Injustificada;No aplica;0;0;;;;
+E001;2026-11-20;;;Injustificada;No aplica;0;0;;;;
+E001;2026-11-23;08:00;23:00;Puntual;Con extra;900;300;Ana Rojas | 2026-11-23 | 08:00 | Entrada;Ana Rojas | 2026-11-23 | 23:00 | Salida;;
+E002;2026-11-16;;;Injustificada;No aplica;0;0;;;;
+E002;2026-11-17;;;Injustificada;No aplica;0;0;;;;
+E002;2026-11-18;;;Injustificada;No aplica;0;0;;;;
+E002;2026-11-19;;;Injustificada;No aplica;0;0;;;;
+E002;2026-11-20;;;Injustificada;No aplica;0;0;;;;
+E002;2026-11-23;;;Pendiente de justificar;No aplica;0;0;;;;
+E001;2026-11-24;11:36;20:00;Retardo;Con extra;504;120;Ana Rojas | 2026-11-24 | 11:36 | Entrada | Foto: ADADAD;Ana Rojas | 2026-11-24 | 20:00 | Salida;ADADAD;
+E002;2026-11-24;11:58;;Retardo;Pendiente;0;0;Luis Pérez | 2026-11-24 | 11:58 | Entrada | Foto: evidencias\E002_entrada_20261124_115841_897263.png;;evidencias\E002_entrada_20261124_115841_897263.png;

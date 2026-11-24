@@ -1,0 +1,2 @@
+E001;100000001;Ana;Rojas;Analista;Operaciones;ana@ejemplo.com;3001111111;2026-11-16;Activo
+E002;100000002;Luis;Pérez;Auxiliar;Administración;luis@ejemplo.com;3002222222;2026-11-16;Activo

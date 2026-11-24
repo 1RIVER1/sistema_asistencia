@@ -1,0 +1,35 @@
+admin;2026-11-23;08:00;Acceso fallido
+admin;2026-11-23;08:00;Inicio de sesión
+admin;2026-11-23;08:00;Cierre de sesión
+prueba;2026-11-24;09:54;Inicio de sesión
+prueba;2026-11-24;09:56;Generó reporte Diario
+prueba;2026-11-24;09:57;Generó reporte Diario
+prueba;2026-11-24;10:25;Cierre de sesión
+prueba;2026-11-24;11:32;Inicio de sesión
+prueba;2026-11-24;11:34;Cuenta admin: estado
+prueba;2026-11-24;11:35;Cuenta E001: estado
+prueba;2026-11-24;11:35;Cierre de sesión
+E001;2026-11-24;11:35;Acceso fallido
+E001;2026-11-24;11:35;Acceso fallido
+admin;2026-11-24;11:36;Inicio de sesión
+admin;2026-11-24;11:36;Cuenta E001: clave
+admin;2026-11-24;11:36;Cierre de sesión
+E001;2026-11-24;11:36;Inicio de sesión
+E001;2026-11-24;11:36;Registró Entrada
+E001;2026-11-23;08:00;Registró Entrada
+E001;2026-11-24;20:00;Registró Salida
+E001;2026-11-23;23:00;Registró Salida
+prueba;2026-11-24;11:56;Inicio de sesión
+prueba;2026-11-24;11:57;Cuenta E001: clave
+prueba;2026-11-24;11:57;Cierre de sesión
+E001;2026-11-24;11:57;Inicio de sesión
+E001;2026-11-24;11:57;Cierre de sesión
+prueba;2026-11-24;11:57;Inicio de sesión
+prueba;2026-11-24;11:58;Cuenta E002: clave
+prueba;2026-11-24;11:58;Cierre de sesión
+E002;2026-11-24;11:58;Inicio de sesión
+E002;2026-11-24;11:58;Registró Entrada
+E002;2026-11-24;12:00;Cierre de sesión
+prueba;2026-11-24;12:01;Inicio de sesión
+prueba;2026-11-24;12:01;Generó reporte Diario
+prueba;2026-11-24;12:02;Generó reporte Diario
